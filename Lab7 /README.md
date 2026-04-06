@@ -1,14 +1,5 @@
-# Logistic Regression Assignment README
+# Logistic Regression Assignment
 
-## Student Information
-
-Name: _______________________
-Course: Machine Learning Lab
-Assignment: Logistic Regression Assignment
-Dataset: advertising.csv
-Tool Used: Jupyter Notebook (Python)
-
----
 
 ## Objective of the Assignment
 
@@ -137,8 +128,6 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Dataset: advertising.csv
 
 ---
-
-## Author
 
 Prepared by: _______________________
 
