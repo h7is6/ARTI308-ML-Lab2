@@ -120,15 +120,4 @@ Logistic Regression is a powerful and efficient algorithm for binary classificat
 
 ---
 
-## Tools and Environment
-
-Programming Language: Python
-Platform: Jupyter Notebook (Anaconda Navigator)
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Dataset: advertising.csv
-
----
-
-Prepared by: _______________________
-
 
